@@ -53,6 +53,7 @@ h3{
 @media(min-width:375px){
     main{
         width: 50%;
+        flex-direction:column;
     }
 }
 p{
