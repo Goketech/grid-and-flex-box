@@ -52,6 +52,9 @@ h3{
         width:200px;
         align-items:center;
     }
+    main div{
+        width:200px;
+    }
 }
 p{
     color: hsla(0, 0%, 100%, 0.75);
