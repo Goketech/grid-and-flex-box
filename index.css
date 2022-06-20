@@ -45,9 +45,8 @@ h3{
     font-family: 'Lexend Deca', sans-serif;
     font-weight: 700;
 }
-@media(max-width:375px){
+@media screen (max-width:375px){
     main{
-        width: 50%;
         flex-direction:column;
     }
 }
